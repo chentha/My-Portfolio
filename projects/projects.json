@@ -3,7 +3,7 @@
     "name": "School Management",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "school image",
-    "category": "android",
+    "category": "school",
     "links": {
       "view": "https://github.com/chentha",
       "code": "https://github.com/chentha/school-management"
@@ -17,14 +17,14 @@
     "category": "android",
     "links": {
       "view": "https://github.com/chentha",
-      "code": "https://github.com/chentha/school-management"
+      "code": "https://github.com/chentha/Khqr-Sample"
     }
   },
 
   {
-    "name": "KHQR Code Payment Testing",
+    "name": "KHQR Code Payment Sample",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "khqr",
+    "image": "mockup_bakong1",
     "category": "android",
     "links": {
       "view": "https://github.com/chentha",
@@ -33,9 +33,9 @@
   },
 
   {
-    "name": "KHQR Code Payment Testing",
+    "name": "Admin Template Dashboard",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "khqr",
+    "image": "admin",
     "category": "android",
     "links": {
       "view": "https://github.com/chentha",
@@ -44,10 +44,10 @@
   },
 
   {
-    "name": "KHQR Code Payment Testing",
+    "name": "Travel Booking",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "khqr",
-    "category": "android",
+    "image": "travel",
+    "category": "school",
     "links": {
       "view": "https://github.com/chentha",
       "code": "https://github.com/chentha/school-management"
@@ -55,10 +55,10 @@
   },
 
   {
-    "name": "KHQR Code Payment Testing",
+    "name": "Math RSA",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "khqr",
-    "category": "android",
+    "image": "math rsa",
+    "category": "school",
     "links": {
       "view": "https://github.com/chentha",
       "code": "https://github.com/chentha/school-management"
@@ -66,15 +66,25 @@
   },
 
   {
-    "name": "KHQR Code Payment Testing",
+    "name": "Portfolio Sample Testing",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "khqr",
-    "category": "android",
+    "image": "porsonal",
+    "category": "school",
+    "links": {
+      "view": "https://github.com/chentha",
+      "code": "https://github.com/chentha/school-management"
+    }
+  },
+
+  {
+    "name": "Project With Api Tesing",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "api",
+    "category": "school",
     "links": {
       "view": "https://github.com/chentha",
       "code": "https://github.com/chentha/school-management"
     }
   }
-
 
 ]
