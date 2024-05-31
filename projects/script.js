@@ -87,7 +87,7 @@ function showProjects(projects) {
         itemSelector: '.grid-item',
         
         masonry: {
-            columnWidth: 200
+            columnWidth:200
         }
     });
 
