@@ -3,7 +3,7 @@
     "name": "School Management",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "school image",
-    "category": "mern",
+    "category": "all",
     "links": {
       "view": "https://github.com/chentha",
       "code": "https://github.com/chentha/school-management"
@@ -14,7 +14,7 @@
     "name": "KHQR Code Payment Testing",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "khqr",
-    "category": "android",
+    "category": "all",
     "links": {
       "view": "https://github.com/chentha",
       "code": "https://github.com/chentha/Khqr-Sample"
@@ -25,7 +25,7 @@
     "name": "KHQR Code Payment Sample",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "mockup_bakong1",
-    "category": "mern",
+    "category": "all",
     "links": {
       "view": "https://github.com/chentha",
       "code": "https://github.com/chentha/school-management"
@@ -36,7 +36,7 @@
     "name": "Admin Template Dashboard",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "admin",
-    "category": "mern",
+    "category": "all",
     "links": {
       "view": "https://github.com/chentha",
       "code": "https://github.com/chentha/school-management"
